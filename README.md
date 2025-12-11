@@ -18,6 +18,5 @@ int main()
 	setlocale(LC_ALL, "Russian");
 	cout << "Введите число: \n";
 	cin >> a;
-
 	cout << "Вы ввели: \n" << a << endl;
 }
